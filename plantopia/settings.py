@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'plantopia.wsgi.application'
 
 DATABASES = {
     'default': {
-        '
+        
     }
 }
 
